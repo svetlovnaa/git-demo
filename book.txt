@@ -1,3 +1,7 @@
 
 Michail Bulgakov
 
+<<<<<<< HEAD
+=======
+Some content
+>>>>>>> 1bcf3469f67392ac55c01b47cda732255770f023
